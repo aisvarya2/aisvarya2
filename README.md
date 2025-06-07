@@ -3,7 +3,10 @@
 ## 👋 About Me
 Hi! I'm Aisvarya, a DevOps Engineer with 3+ years of experience designing, automating, and optimizing cloud-native infrastructures. Passionate about infrastructure as code (IaC), CI/CD automation, and GitOps methodologies, I thrive on building efficient workflows and scalable deployments.
 
-Beyond tech, I enjoy: 📖 Reading Books – from thrilling fiction to insightful non-fiction 🌿 Exploring Green Spaces – because nothing beats fresh air and nature 🏖️ Relaxing at the Beach – the sound of waves is the perfect reset
+Beyond tech, I enjoy: 
+📖 Reading Books – from thrilling fiction to insightful non-fiction 
+🌿 Exploring Green Spaces – because nothing beats fresh air and nature
+
 
 # 🔧 Tech Stack
 
